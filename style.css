@@ -1,0 +1,19 @@
+*{
+  background-color:#EBE8DB;
+  padding: 1rem;
+  
+ 
+}
+.first{
+  border: 5px inset #D76C82;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 3rem;
+  background-color:#B7B1F2;
+  
+}
+.head{
+  background-color:#B7B1F2;
+  
+}
